@@ -60,7 +60,7 @@ typedef struct hlcolor
 {
     int r, g, b;
 } hlcolor;
-
+/* editor config */
 struct editorConfig
 {
     int cx, cy;     /* Cursor x and y position in characters */
